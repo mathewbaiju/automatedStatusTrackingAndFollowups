@@ -1,8 +1,3 @@
-# Automations to drive Migration & Adoption programs
-
-I'll read that Autodesk wiki page for you using the Confluence MCP.
-
-[1 tool called]
 
 # Automations to drive Migration & Adoption programs
 
@@ -95,5 +90,3 @@ The page includes multiple screenshots showing:
 - Field selection and token insertion
 - Message preview functionality
 - Step-by-step configuration process
-
-This documentation provides a comprehensive guide for Technical Program Managers to set up automated, data-driven communications for migration and adoption programs using Airtable's automation capabilities.
