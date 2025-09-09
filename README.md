@@ -1,8 +1,6 @@
 
 # Automations to drive Migration & Adoption programs
 
-I've successfully retrieved the content from Tom Mcintire's personal space on the Autodesk wiki. This page documents how to use Airtable automations for driving migration and adoption programs. Here's the complete content:
-
 ## Overview
 
 **Status**: This is a draft work in progress
